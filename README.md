@@ -5,28 +5,39 @@
 ### Track: Microservices/ Serverless: Patterns and Practices
 #### Session 1: Microservices & Scaling of Rational Interactions
 Mark Burgess
+*
 #### Session 2: Debugging Microservices Applications w/ Service Mesh, openTracing & Squash
 Idit Levine
+***
 #### Session 3: Securing Serverless – By Breaking In
 Guy Podjarny
+***
 #### Session 4: Microservices Lessons Learned From a Startup
 Susanne Kaiser
+***
 #### Session 5: Insecure Transit - Microservice Security
 Sam Newman
+***
 #### Session 6: Microservices Panel
 All speakers from Track
+-
 
 ### Track: DevEx: The Next Evolution of DevOps
 #### Session 1: Develop Your Development Experience
 Jessica Kerr
+**
 #### Session 2: DevEx Open Space
+-
 #### Session 3: Kubernetes: Crossing the Chasm
 Ian Crosby
+**
 #### Session 4: Taking Back “Software Engineering”
 Dave Farley
+***
 #### Session 5: 10k Deploys a Day - the Skyscanner Journey So Far
 Stuart Davidson
-#### Session 6: DevEx Presentation
+***
+#### Session 6: DevEx Presentation TODO
 James Uther
 
 ### Track: Stream Processing in the Modern Age
