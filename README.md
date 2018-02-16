@@ -20,14 +20,14 @@ Sam Newman
 :+1: :+1: :+1:
 #### Session 6: Microservices Panel
 All speakers from Track
--
+:-1:
 
 ### Track: DevEx: The Next Evolution of DevOps
 #### Session 1: Develop Your Development Experience
 Jessica Kerr
 :+1: :+1:
 #### Session 2: DevEx Open Space
--
+:-1:
 #### Session 3: Kubernetes: Crossing the Chasm
 Ian Crosby
 :+1: :+1:
