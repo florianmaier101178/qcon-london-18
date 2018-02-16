@@ -4,6 +4,9 @@
 
 ### Track: Microservices/ Serverless: Patterns and Practices
 
+#### Session 1: Microservices & Scaling of Rational Interactions
+Mark Burgess
+
 ### Track: DevEx: The Next Evolution of DevOps
 
 ### Track: Stream Processing in the Modern Age
