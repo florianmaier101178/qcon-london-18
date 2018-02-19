@@ -108,12 +108,57 @@ James Allerton-Austin
 ## Tuesday 6.3.18
 
 ### Track: Architectures You've Always Wondered About
+#### Session 1: Inside a Self-Driving Uber
+Matt Ranney
+#### Session 2:  Building the Ocado Smart Platform
+Paul Sweetman
+#### Session 3: Lambda Architectures: a Snapshot, a Stream, & a Bunch of Deltas
+Adrian Trenaman
+#### Session 4: Actors or Not: Async Event Architectures
+Yaroslav Tkachenko
+#### Session 5: Open/R - Routing Platform For Modern Networks
+Saif Hasan
+#### Session 6: Microservices: API Re-platforming @Expedia
+Mariano Albera
 
 ### Track: Observability: Logging, Alerting and Tracing
+#### Session 1: How to Build Observable Distributed Systems
+Pierre Vincent
+#### Session 2: The Present and Future of Serverless Observability
+Yan Cui
+#### Session 3: Monitoring at Scale With Prometheus
+Aaron Kirkbride
+#### Session 4: Observability and Emerging Infrastructures
+Charity Majors
+#### Session 5: Open Space
+#### Session 6: Testing Observability
+Amy Phillips
 
 ### Track: Next Gen Banking: It’s not all Blockchains and ICOs
+#### Session 1: FlexiTime Token: Building dApps with Ethereum
+Alex Batlin
+#### Session 2: Self-Sovereign Identity
+Sharat Koya
+#### Session 3: Payment Services (PSD 2) Driven Architecture Presentation TODO
+#### Session 4: Open Space
+#### Session 5: Real-Time Data Analysis and ML for Fraud Prevention
+Mikhail Kourjanski
+#### Session 6: Disrupting the Banking Experience: Building a Mobile-Only Bank
+Yann Del Rey & Teresa Ng
 
 ### Track: The Practice & Frontiers of AI
+#### Session 1: AI Panel
+#### Session 2: Tools to Put Deep Learning Models in Production
+Sahil Dua
+#### Session 3: Fuelling the AI Revolution with Gaming
+Alison Lowndes
+#### Session 4: Machine Intelligence at Google Scale
+Guillaume Laforge
+#### Session 5: AI Presentation TODO
+Antoine Pichot
+#### Session 6: Models in Minutes not Months: AI as Microservices
+Sarah Aerni
+
 
 ### Track: JavaScript and Beyond: The Future of the Frontend
 
