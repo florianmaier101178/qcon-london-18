@@ -159,12 +159,44 @@ Antoine Pichot
 #### Session 6: Models in Minutes not Months: AI as Microservices
 Sarah Aerni
 
-
 ### Track: JavaScript and Beyond: The Future of the Frontend
+#### Session 1: Enterprise Node.JS Apps in 2018
+Jamund Ferguson
+#### Session 2: Parallelizing Product Development with GraphQL
+Chris Biscardi
+#### Session 3: Reinventing npmjs.com
+Katie Fenn
+#### Session 4: WebAssembly (And the Death of JavaScript?)
+Colin Eberhardt
+#### Session 5: Observable JS Apps
+Emily Nakashima
+#### Session 6: Open Space
 
 ### Track: Building Great Engineering Cultures & Organizations
+#### Session 1: Building a Culture of Continuous Improvement
+Kevin Goldsmith
+#### Session 2: Building Great Engineering Cultures Panel
+#### Session 3: It's People, Stupid (People Are Stupid?)
+Andy Walker
+#### Session 4: An Engineering-Led Culture at Scale
+Amanda Bellwood
+#### Session 5: Building and Growing Sustainable Teams
+Vlad Galu
+#### Session 6: Engineering Culture Revived
+Finbarr Joy
 
 ### Track: Solutions Track II
+#### Session 1: 3 Common Pitfalls in Microservice Integration and How to Avoid Them
+Bernd Ruecker
+#### Session 2: The Extraordinary World of Quantum Computing
+Tim Ellison
+#### Session 3: How to Re-Architect Without Breaking Stuff Too Much
+Owen Garrett
+#### Session 4: DevOps 2.0 - When Everyone Can Run What’s Built
+Edith Harbaugh
+#### Session 5: AppDynamics's presentation TODO
+#### Session 6: Delivering Data Persistence and More in Kubernetes
+Josh Atwell
 
 ## Wednesday 7.3.18
 
