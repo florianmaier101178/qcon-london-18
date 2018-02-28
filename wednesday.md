@@ -72,8 +72,8 @@ Yanqing Cheng
 Tim Kadlec
 
 ## Track: Solutions Track III
-### Session 1: Serverless Spring
-Dave Syer
+### Session 1: JDK 9: Mission Accomplished. What Next for Java?
+Simon Ritter
 ### Session 2: Continuous Delivery in the Modern Era
 Marker Sheroy
 ### Session 3: Have Your Cake and Strong Consistency, too
